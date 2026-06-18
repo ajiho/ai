@@ -1,13 +1,21 @@
 {
-  "name": "ai",
+  "name": "ai-pro",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "size": "size-limit",
+    "build": "node src/index.js && pnpm size",
+    "coverage": "echo 'a'"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module",
+  "devDependencies": {
+    "@size-limit/preset-small-lib": "^13.0.3",
+    "bootstrap": "^5.3.8",
+    "size-limit": "^13.0.3"
+  },
+  "packageManager": "pnpm@11.20.0+sha512.9a6f330a95b66446ea088faf1521405a8a01f07fde7124cc9958dfed52d4bb436737e65b08f85f37b46fcba375092558ac51262b816844b22f63406ed166bfee"
 }
