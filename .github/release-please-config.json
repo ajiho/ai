@@ -6,7 +6,7 @@
   "packages": {
     ".": {
       "pull-request-title-pattern": "chore: release ${version} 🚀",
-      "package-name": "AdminLTS"
+      "package-name": "ai-pro"
     }
   }
 }
