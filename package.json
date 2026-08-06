@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+    "tag": "alpha"
+  },
   "scripts": {
     "size": "size-limit",
     "build": "node src/index.js && pnpm size",
