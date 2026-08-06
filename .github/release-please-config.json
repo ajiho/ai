@@ -6,6 +6,7 @@
   "pull-request-title-pattern": "chore: release ${version} 🚀",
   "packages": {
     ".": {
+      "versioning": "prerelease",
       "package-name": "ai-pro",
       "prerelease": true,
       "prerelease-type": "alpha"
