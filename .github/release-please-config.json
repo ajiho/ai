@@ -3,9 +3,9 @@
   "release-type": "node",
   "initial-version": "0.0.1",
   "include-component-in-tag": false,
+  "pull-request-title-pattern": "chore: release ${version} 🚀",
   "packages": {
     ".": {
-      "pull-request-title-pattern": "chore: release ${version} 🚀",
       "package-name": "ai-pro"
     }
   }
