@@ -20,6 +20,7 @@ jobs:
         with:
           release-type: node
           include-component-in-tag: false
+          manifest-file: .github/.release-please-manifest.json
 
   publish:
     needs: release-please
