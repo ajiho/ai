@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "tag": "alpha"
+    "tag": "latest"
   },
   "repository": {
     "type": "git",
