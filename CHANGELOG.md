@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0-alpha.3](https://github.com/ajiho/ai/compare/v0.1.0-alpha.2...v0.1.0-alpha.3) (2026-08-07)
+
+
+### Features
+
+* ewqeq ([5b317dd](https://github.com/ajiho/ai/commit/5b317dd444d08dc1d36259056d9e82aaee602354))
+
 ## [0.1.0-alpha.2](https://github.com/ajiho/ai/compare/v0.1.0-alpha.1...v0.1.0-alpha.2) (2026-08-07)
 
 
