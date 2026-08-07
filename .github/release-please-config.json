@@ -2,12 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "release-type": "node",
   "initial-version": "0.0.1",
-  "include-component-in-tag": false,
+  "include-component-in-tag": true,
   "pull-request-title-pattern": "chore: release ${version} 🚀",
   "packages": {
     ".": {
-      "package-name": "ai-pro",
-      "release-as": "0.1.0"
+      "component": "ai-pro"
     }
   }
 }
