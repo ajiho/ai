@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0-alpha.5](https://github.com/ajiho/ai/compare/v0.1.0-alpha.4...v0.1.0-alpha.5) (2026-08-07)
+
+
+### Features
+
+* 新的特性 ([d01d44f](https://github.com/ajiho/ai/commit/d01d44f40644e21a05c825830b637f170496cb24))
+
 ## [0.1.0-alpha.4](https://github.com/ajiho/ai/compare/v0.1.0-alpha.3...v0.1.0-alpha.4) (2026-08-07)
 
 
