@@ -6,9 +6,7 @@
   "pull-request-title-pattern": "chore: release ${version} 🚀",
   "packages": {
     ".": {
-      "package-name": "ai-pro",
-      "bump-minor-pre-major": false,
-      "bump-patch-for-minor-pre-major": false
+      "package-name": "ai-pro"
     }
   }
 }
