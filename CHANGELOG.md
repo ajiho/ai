@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0-alpha.1](https://github.com/ajiho/ai/compare/v0.1.0-alpha...v0.1.0-alpha.1) (2026-08-07)
+
+
+### Bug Fixes
+
+* aa ([dcbff04](https://github.com/ajiho/ai/commit/dcbff04fb86455fbed687e51502ce7c9655e6bac))
+
 ## [0.1.0-alpha](https://github.com/ajiho/ai/compare/v0.0.1...v0.1.0-alpha) (2026-08-06)
 
 
