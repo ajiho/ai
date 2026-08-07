@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/ajiho/ai/compare/ai-pro-v0.3.1...ai-pro-v0.3.2) (2026-08-07)
+
+
+### Bug Fixes
+
+* aaa ([f8bcf32](https://github.com/ajiho/ai/commit/f8bcf3249bcf896f7bbc8d39d954fa662b5640cb))
+
 ## [0.3.1](https://github.com/ajiho/ai/compare/ai-pro-v0.3.0...ai-pro-v0.3.1) (2026-08-07)
 
 
