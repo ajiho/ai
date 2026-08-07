@@ -4,12 +4,11 @@ on:
   push:
     branches:
       - main
-  # 允许从页面手动运行此工作流
-  workflow_dispatch:
 
 permissions:
   contents: write
   pull-requests: write
+  id-token: write # Required for OIDC
 
 jobs:
   release-please:
