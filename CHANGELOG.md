@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.3.0-alpha](https://github.com/ajiho/ai/compare/ai-pro-v0.2.0...ai-pro-v0.3.0-alpha) (2026-08-07)
+
+
+### Features
+
+* a ([6398b5a](https://github.com/ajiho/ai/commit/6398b5ad2ddc7263b8a17f4ecf582a6a7663f9fd))
+
+
+### Bug Fixes
+
+* aaa ([e3fac23](https://github.com/ajiho/ai/commit/e3fac2312a9b52d6b08854d33164ac6f6a3daf12))
+* update pkg.json ([1ffcd7f](https://github.com/ajiho/ai/commit/1ffcd7f05be304d7906e1bf7d9ff0692f0e2aa44))
+
 ## [0.2.0](https://github.com/ajiho/ai/compare/ai-pro-v0.1.0...ai-pro-v0.2.0) (2026-08-07)
 
 
