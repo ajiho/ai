@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/ajiho/ai/compare/ai-pro-v0.3.0-alpha.1...ai-pro-v0.3.0) (2026-08-07)
+
+
+### Features
+
+* aadsa ([10ab936](https://github.com/ajiho/ai/commit/10ab936bf9ee40c5eed3f3a6c23fa802a957ed5f))
+
+
+### Bug Fixes
+
+* adsada ([746c59b](https://github.com/ajiho/ai/commit/746c59bd9904553426b8bfd9d8b5f1df97e593da))
+
 ## [0.3.0-alpha.1](https://github.com/ajiho/ai/compare/ai-pro-v0.3.0-alpha...ai-pro-v0.3.0-alpha.1) (2026-08-07)
 
 
