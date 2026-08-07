@@ -1,6 +1,6 @@
 {
   "name": "ai-pro",
-  "version": "0.1.0-alpha.5",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
