@@ -6,7 +6,8 @@
   "pull-request-title-pattern": "chore: release ${version} 🚀",
   "packages": {
     ".": {
-      "package-name": "ai-pro"
+      "package-name": "ai-pro",
+      "release-as": "0.1.0"
     }
   }
 }
