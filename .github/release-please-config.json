@@ -9,7 +9,9 @@
       "versioning": "prerelease",
       "package-name": "ai-pro",
       "prerelease": true,
-      "prerelease-type": "alpha"
+      "prerelease-type": "alpha",
+      "bump-minor-pre-major": false,
+      "bump-patch-for-minor-pre-major": false
     }
   }
 }
