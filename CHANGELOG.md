@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0-alpha.2](https://github.com/ajiho/ai/compare/v0.1.0-alpha.1...v0.1.0-alpha.2) (2026-08-07)
+
+
+### Features
+
+* 新特性 ([ac247fb](https://github.com/ajiho/ai/commit/ac247fb25ffd5569445057e7edf8f18deece6af9))
+
 ## [0.1.0-alpha.1](https://github.com/ajiho/ai/compare/v0.1.0-alpha...v0.1.0-alpha.1) (2026-08-07)
 
 
