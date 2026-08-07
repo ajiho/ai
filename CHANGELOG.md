@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0-alpha.4](https://github.com/ajiho/ai/compare/v0.1.0-alpha.3...v0.1.0-alpha.4) (2026-08-07)
+
+
+### Bug Fixes
+
+* 移除 ([27c15ca](https://github.com/ajiho/ai/commit/27c15ca0fd35b5c8f75e87c9d2a07fbd06d97f45))
+
 ## [0.1.0-alpha.3](https://github.com/ajiho/ai/compare/v0.1.0-alpha.2...v0.1.0-alpha.3) (2026-08-07)
 
 
