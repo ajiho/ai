@@ -46,7 +46,14 @@ export default defineConfig({
     ],
     scopes: ["build", "docs", "ci"],
     allowCustomScopes: true,
-    skipQuestions: ["body", "footerPrefix", "footer", "breaking"], // 跳过“详细描述”和“底部信息”
+    issuePrefixes: [
+      {
+        value: "fixes",
+        name: "fixes: 关闭 Issue",
+      },
+    ],
+    allowEmptyIssuePrefix: true,
+    skipQuestions: ["body", "breaking"], // 跳过“详细描述”和“底部信息”
     messages: {
       type: "📌 请选择提交类型:",
       scope: "🎯 请选择影响范围 (可选):",
